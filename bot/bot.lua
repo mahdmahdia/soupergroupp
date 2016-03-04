@@ -237,6 +237,9 @@ function create_config( )
       "moderation",
       "plugins",
       "persian_lang",
+      "fabanhammer"
+      "info"
+      "lockads"
       "settings",
       "spam",
       "spanish_lang",
