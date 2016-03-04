@@ -24,7 +24,9 @@ local sudos = {
 local mods = {
 	"whois",
 	"kick",
-	"add",
+	"info"
+        "lockads"
+        "add",
 	"ban",
 	"unban",
 	"lockmember",
